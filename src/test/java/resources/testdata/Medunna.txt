@@ -1,0 +1,1 @@
+Registrant{ssn='755-15-4804', firstname='Phung', lastname='Smith', username='PhungSmith', email='oren.mosciski@email.com', password='*12345'}
